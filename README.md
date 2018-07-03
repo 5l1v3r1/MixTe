@@ -2,11 +2,11 @@
 
 ** MixTe Is A Python Script For Make YOUR TEXT WITH GREAT FONTS
 
-* MixTe Usage Msg:
+* MixTe Usage Msg
 
       ![mixte-usage](https://user-images.githubusercontent.com/29546157/42239103-6ab55f2a-7ef2-11e8-97ed-1e0854f5b23b.png)
       
-* MixTe Example:
+* MixTe Example
 
        ![mixte-examp](https://user-images.githubusercontent.com/29546157/42239107-6ebd09d8-7ef2-11e8-8cb6-e0ab7369d7b5.png)
        
