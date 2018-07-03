@@ -1,6 +1,6 @@
 # MixTe
 
-** MixTe Is A Python Script For Make YOUR TEXT WITH GREAT FONTS
+- MixTe Is A Python Script For Make YOUR TEXT WITH GREAT FONTS
 
 * MixTe Usage Msg
 
@@ -20,10 +20,12 @@
   
 # Usage:
    - cd MixTe/
-   - python MixTe.py --show : for show fonts names and copy an font name you liked the example of him
+   - python MixTe.py --show : for show fonts names, and copy a font name you like the example of him
    - python MixTe.py -t Your Text -f paste font name here
    * Exapmle:
           python MixTe.py -t hello -f avatar
+         
+        ![mixte-examp](https://user-images.githubusercontent.com/29546157/42239829-a9ef0c16-7ef4-11e8-800a-39538ca8812f.png)
       
 # That's All:
 - This Script By Oseid Aldary
