@@ -13,7 +13,7 @@ except:
   exit(1)
 
 parse = optparse.OptionParser("""
-Usage: MixTe.py [OPTION..]
+Usage: python MixTe.py [OPTION..]
 
 OPTIONS:
 --------
@@ -27,7 +27,7 @@ OPTIONS:
        |
   R    Examples:
        ---------
-  1	       | python --show
+  1	       | python MixTe.py --show
 	       | python MixTe.py -t Python -f speed
   1	       | python MixTe.py -t Oseid --all
 ----------------
